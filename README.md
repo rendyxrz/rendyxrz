@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4wa2Frcm1vZ2oyb2k1azR2bnJ6azY5N282NzB4bWZqZjQ5bjZqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c16VBx4QeNq9i/giphy.gif
 
 ## Hello Word! I'm Rendy 👋
 
